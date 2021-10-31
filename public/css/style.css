@@ -106,8 +106,10 @@ a:hover {
 }
 
 .pdf-view {
-  width: 1000px;
-  height: auto;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.1);
+  overflow: auto;
 }
 
 #pdf-viewer {
