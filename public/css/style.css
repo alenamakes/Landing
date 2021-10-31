@@ -219,6 +219,9 @@ a:hover {
   .homepage-footer {
     bottom: 1vh;
   }
+  .footer-text {
+    color: transparent;
+  }
 }
 
 @media (max-width: 576px) {
@@ -231,5 +234,8 @@ a:hover {
   }
   .homepage-footer {
     bottom: 1vh;
+  }
+  .footer-text {
+    color: transparent;
   }
 }
