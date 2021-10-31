@@ -216,6 +216,9 @@ a:hover {
   .button-67 {
     padding: 24px;
   }
+  .homepage-footer {
+    bottom: 1vh;
+  }
 }
 
 @media (max-width: 576px) {
@@ -225,5 +228,8 @@ a:hover {
   }
   .showcase-img {
     width: 200px; /* ie8 */
+  }
+  .homepage-footer {
+    bottom: 1vh;
   }
 }
