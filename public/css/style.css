@@ -205,7 +205,7 @@ a:hover {
   display: block;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .container {
     padding-left: 2rem;
     padding-right: 2rem;
