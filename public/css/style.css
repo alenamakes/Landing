@@ -133,7 +133,7 @@ a:hover {
     padding-right: 2rem;
   }
   .showcase-img {
-    width: 200px; /* ie8 */
+    width: 200px; 
   }
   .homepage-footer {
     bottom: 1vh;
